@@ -1,0 +1,96 @@
+2025-01-13T04:10:33.810Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:10:33.811Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:10:38.811Z - [INFO   ] - undefined  404 - Booking not found
+2025-01-13T04:10:38.811Z - [ERROR  ] - undefined  500 - TypeError: res.status is not a function
+2025-01-13T04:10:43.813Z - [INFO   ] - undefined  404 - Booking not found
+2025-01-13T04:10:43.813Z - [ERROR  ] - undefined  500 - TypeError: res.status is not a function
+2025-01-13T04:10:48.819Z - [INFO   ] - undefined  404 - Guest list is empty.
+2025-01-13T04:10:48.819Z - [ERROR  ] - undefined  500 - TypeError: res.status is not a function
+2025-01-13T04:10:53.823Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:10:53.824Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:10:58.829Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:10:58.829Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:11:03.832Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:11:03.833Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:11:08.843Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:11:08.843Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:17:42.861Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:17:42.873Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:17:47.856Z - [INFO   ] - undefined  404 - Booking not found
+2025-01-13T04:17:47.857Z - [ERROR  ] - undefined  500 - TypeError: res.status is not a function
+2025-01-13T04:17:52.863Z - [INFO   ] - undefined  404 - Booking not found
+2025-01-13T04:17:52.863Z - [ERROR  ] - undefined  500 - TypeError: res.status is not a function
+2025-01-13T04:17:57.867Z - [INFO   ] - undefined  404 - Guest list is empty.
+2025-01-13T04:17:57.868Z - [ERROR  ] - undefined  500 - TypeError: res.status is not a function
+2025-01-13T04:18:02.872Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:18:02.872Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:18:07.881Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:18:07.882Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:18:12.894Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:18:12.894Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:18:17.895Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:18:17.895Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:19:28.537Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:19:28.538Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:19:33.541Z - [INFO   ] - undefined  404 - Booking not found
+2025-01-13T04:19:33.541Z - [ERROR  ] - undefined  500 - TypeError: res.status is not a function
+2025-01-13T04:19:38.550Z - [INFO   ] - undefined  404 - Booking not found
+2025-01-13T04:19:38.551Z - [ERROR  ] - undefined  500 - TypeError: res.status is not a function
+2025-01-13T04:19:43.560Z - [INFO   ] - undefined  404 - Guest list is empty.
+2025-01-13T04:19:43.560Z - [ERROR  ] - undefined  500 - TypeError: res.status is not a function
+2025-01-13T04:19:48.576Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:19:48.576Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:19:53.591Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:19:53.592Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:19:58.604Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:19:58.604Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:20:03.611Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:20:03.611Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:20:52.397Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:20:52.399Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:20:57.409Z - [INFO   ] - undefined  404 - Booking not found
+2025-01-13T04:20:57.410Z - [ERROR  ] - undefined  500 - TypeError: res.status is not a function
+2025-01-13T04:21:02.421Z - [INFO   ] - undefined  404 - Booking not found
+2025-01-13T04:21:02.422Z - [ERROR  ] - undefined  500 - TypeError: res.status is not a function
+2025-01-13T04:21:07.425Z - [INFO   ] - undefined  404 - Guest list is empty.
+2025-01-13T04:21:07.426Z - [ERROR  ] - undefined  500 - TypeError: res.status is not a function
+2025-01-13T04:21:12.433Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:21:12.433Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:21:17.440Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:21:17.440Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:21:22.441Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:21:22.441Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:21:27.453Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:21:27.453Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:48:57.206Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:48:57.207Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:49:02.209Z - [INFO   ] - undefined  404 - Booking not found
+2025-01-13T04:49:02.209Z - [ERROR  ] - undefined  500 - TypeError: res.status is not a function
+2025-01-13T04:49:07.216Z - [INFO   ] - undefined  404 - Booking not found
+2025-01-13T04:49:07.216Z - [ERROR  ] - undefined  500 - TypeError: res.status is not a function
+2025-01-13T04:49:12.232Z - [INFO   ] - undefined  404 - Guest list is empty.
+2025-01-13T04:49:12.232Z - [ERROR  ] - undefined  500 - TypeError: res.status is not a function
+2025-01-13T04:49:17.250Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:49:17.250Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:49:22.264Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:49:22.264Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:49:27.281Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:49:27.281Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:49:32.298Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:49:32.298Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:54:38.504Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:54:38.506Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:54:43.464Z - [INFO   ] - undefined  404 - Booking not found
+2025-01-13T04:54:43.464Z - [ERROR  ] - undefined  500 - TypeError: res.status is not a function
+2025-01-13T04:54:48.466Z - [INFO   ] - undefined  404 - Booking not found
+2025-01-13T04:54:48.467Z - [ERROR  ] - undefined  500 - TypeError: res.status is not a function
+2025-01-13T04:54:53.515Z - [INFO   ] - undefined  404 - Guest list is empty.
+2025-01-13T04:54:53.516Z - [ERROR  ] - undefined  500 - TypeError: res.status is not a function
+2025-01-13T04:54:58.518Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:54:58.518Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:55:03.530Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:55:03.530Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:55:08.535Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:55:08.535Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
+2025-01-13T04:55:13.548Z - [ERROR  ] - undefined  undefined - Error catched
+2025-01-13T04:55:13.548Z - [ERROR  ] - undefined  500 - TypeError: res.json is not a function
